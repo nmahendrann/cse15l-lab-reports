@@ -10,6 +10,8 @@
 * Next, in order to connect to the ssh a command was inputted to the terminal: **cs15lwi23zz@ieng6.ucsd.edu**
 * In order to connect properly, the zz in the code has to be replaced by the class spcecific code given during the password reset
 * A message is displayed during the first time connecting to the server, and at this point we had to click yes in order to continue
+* After a successful connection, this is what the message displayed should look like
 
 ---
-![Image](unnamed(1).png)
+
+![Image](unnamed1.png)
