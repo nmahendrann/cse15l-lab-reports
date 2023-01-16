@@ -17,4 +17,8 @@
 ![Image](unnamed1.png)
 
 * After this different commands were tried through the ssh connection
+
+---
+![Image](unnamed2.png)
+
 * Once this was completed, this program was exited, either through ctrl D or command `exit`
