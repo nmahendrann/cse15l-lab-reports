@@ -23,13 +23,15 @@
 * cd changes the directory within the folder
 * ls displays all the files and directories within the location
 
----
+
 ![Image](unnamed4.png)
+---
 
 * cp is used to create a copy of the files in a given file or directory
 * cat reads the data from files and displays the contents 
----
+
 ![Image](unnamed2.png)
+---
 
 * Once this was completed, this program was exited, either through ctrl D or command `exit`
 * ![Image](unnamed5.png)
