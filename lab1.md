@@ -17,7 +17,6 @@
 * A message is displayed during the first time connecting to the server, and at this point we had to click yes in order to continue
 * After a successful connection, this is what the message displayed should look like
 
----
 
 ![Image](unnamed1.png)
 
