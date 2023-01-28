@@ -32,3 +32,4 @@
 ![Image](unnamed2.png)
 
 * Once this was completed, this program was exited, either through ctrl D or command `exit`
+* ![Image](unnamed5.png)
