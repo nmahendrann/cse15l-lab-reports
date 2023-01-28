@@ -17,7 +17,10 @@
 ![Image](unnamed1.png)
 
 * After this different commands were tried through the ssh connection
-
+* cd changes the directory within the folder
+* ls displays all the files and directories within the location
+* cp is used to create a copy of the files in a given file or directory
+* cat reads the data from files and displays the contents 
 ---
 ![Image](unnamed2.png)
 
