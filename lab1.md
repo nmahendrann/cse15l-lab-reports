@@ -9,9 +9,10 @@
 * Gitbash was downloaded next, and set to the as the default terminal
 * Next, in order to connect to the ssh a command was inputted to the terminal: **cs15lwi23zz@ieng6.ucsd.edu**
 
+![Image](unnamed3.png)
+
 ---
 
-![Image](unnamed3.png)
 * In order to connect properly, the zz in the code has to be replaced by the class spcecific code given during the password reset
 * A message is displayed during the first time connecting to the server, and at this point we had to click yes in order to continue
 * After a successful connection, this is what the message displayed should look like
