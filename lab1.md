@@ -21,9 +21,6 @@
 
 * After this different commands were tried through the ssh connection
 * cd changes the directory within the folder
-
----
-![Image](unnamed5.png)
 * ls displays all the files and directories within the location
 
 ---
