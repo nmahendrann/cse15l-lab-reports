@@ -36,7 +36,7 @@ static void reverseInPlace(int[] arr) {
 ```
 ## This is the code while the program is functioning as expected
 
-'''
+```
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length / 2; i += 1) {
       int temp = arr[i]
