@@ -10,9 +10,17 @@ ArrayExamples.reverseInPlace(input1);
 assertArrayEquals(new int[]{4,0,5},ArrayExamples.reverseInPlace(input1);
 ```
 
+![Image](unnamed7.png)
+
+---
+
 ## This is an input for the program that works
 ```
 int[] input1 = {1,0,1};
 ArrayExamples.reverseInPlace(input1);
 assertArrayEquals(new int[]{1,0,1},ArrayExamples.reverseInPlace(input1);
 ```
+
+![Image](unnamed6.png)
+
+---
