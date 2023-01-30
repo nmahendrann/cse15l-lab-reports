@@ -45,3 +45,10 @@ static void reverseInPlace(int[] arr) {
     }
  }
  ```
+ 
+* The old code didn't copy the integers to the correct positions. The last output was always the same as the first output.
+* The new method fixed this by only looping halfway through the array but swapping the index of matching integers every cycle.
+
+
+
+* I leanred a lot throughout this week that I didn't know before. One of the more significant advancements in my knowledge was in error testing, as this is something that I can use in my other programming classes as well. The step by step process of testing different inputs, finding out exactly where the error is, and fixing it is something I wasn't too familiar with. By learning these skills and improving with Junit, I think my origramming will improve greatly.
