@@ -12,6 +12,11 @@
 
 
 
+---
+
+![Image](unnamed10.png)
+
+
 
 * One of the bugs in this lab was in the testreverseinplace method
 * This method is supposed to print the input in reverse, but has a bug
