@@ -1,5 +1,13 @@
 # Lab Report 2
 
+![Image](unnamed8.png)
+
+
+
+
+
+
+
 * One of the bugs in this lab was in the testreverseinplace method
 * This method is supposed to print the input in reverse, but has a bug
 
