@@ -2,7 +2,12 @@
 
 ![Image](unnamed8.png)
 
+* This is the code for the Stringserver
+* It takes a string in the query and prints it, and every additional string that is added in printed under the previous
 
+---
+
+![Image](unnamed9.png)
 
 
 
