@@ -9,13 +9,18 @@
 
 ![Image](unnamed9.png)
 
-
+* The getPath is called in order to return the path component of a URI
+* The getQuery method returns the query of a url
+* The contains method checks whether a string contains given characters
+* The split method splits the string after the given parameter
+* The parameter that is inside the split method is important as after that is where the message is read
 
 
 ---
 
 ![Image](unnamed10.png)
 
+* The value that changes in this example is the /n, which modifies the message displayed on the webserver
 
 
 * One of the bugs in this lab was in the testreverseinplace method
