@@ -72,3 +72,8 @@ help
 ```
 
 * This command option prints the specific string in the input, and not the whole line. This is useful for counting the amount of times a word was used in order to have a variation in diction or check fro redundancy.
+
+
+
+* The commands were found in https://wizardzines.com/comics/grep/
+* The functions of the code were discovered through chatGPT, and then experimented with in VSCode
