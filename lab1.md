@@ -1,5 +1,7 @@
 # Lab Report 1
 
+## Installing VS code
+
 * First, we had to reset our passwords into a more secure password
 * https://password.ucsd.edu/
 * The new password had to be more secure and not have out first or last name in it
@@ -11,6 +13,10 @@
 ![Image](unnamed.png)
 
 * Gitbash was downloaded next, and set to the as the default terminal
+
+## Remotely Connecting
+
+
 * Next, in order to connect to the ssh a command was inputted to the terminal: **cs15lwi23zz@ieng6.ucsd.edu**
 
 ![Image](unnamed3.png)
@@ -23,6 +29,8 @@
 
 
 ![Image](unnamed1.png)
+
+##Trying different commands
 
 * After this different commands were tried through the ssh connection
 * cd changes the directory within the folder
