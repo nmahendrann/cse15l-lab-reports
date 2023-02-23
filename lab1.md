@@ -1,6 +1,8 @@
 # Lab Report 1
 
 * First, we had to reset our passwords into a more secure password
+* https://password.ucsd.edu/
+* The new password had to be more secure and not have out first or last name in it
 * We also had to install VS code if we did not already have it and did not want to use the school computers
 * https://code.visualstudio.com/download
 * This was a windows machine so the windows installer was used
