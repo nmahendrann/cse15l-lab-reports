@@ -30,7 +30,7 @@
 
 ![Image](unnamed1.png)
 
-##Trying different commands
+## Trying different commands
 
 * After this different commands were tried through the ssh connection
 * cd changes the directory within the folder
