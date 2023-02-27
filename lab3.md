@@ -75,5 +75,5 @@ help
 
 
 
-* The commands were found in https://wizardzines.com/comics/grep/
+* The commands were found in (wizardzines)[https://wizardzines.com/comics/grep/]
 * The functions of the code were discovered through chatGPT, and then experimented with in VSCode
