@@ -2,29 +2,29 @@
 
 1) ssh cs15lwi23adn@ieng6.ucsd.edu
 
-![Image](unnamed12.png)
+![Image](unnamed11.png)
 
 2) git clone git@github.com:nmahendrann/lab7.git
 
-![Image](unnamed13.png)
+![Image](unnamed12.png)
 
 3) cd into lab7
 
-![Image](unnamed14.png)
+![Image](unnamed13.png)
 
 4) javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples
 
-![Image](unnamed15.png)
+![Image](unnamed14.png)
 
 
 5) nano ListExamples.java
 
-![Image](unnamed16.png)
+![Image](unnamed15.png)
 
 [fix the index1 into index 2]
 
-![Image](unnamed17.png)
+![Image](unnamed16.png)
 
 
 ctrl o to write change, enter to save it
