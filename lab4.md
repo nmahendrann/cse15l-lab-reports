@@ -39,7 +39,7 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 
 6) git add ListExamples.java
 
-git commit -m “fixed”gr
+git commit -m “fixed”
 
 git push
 
