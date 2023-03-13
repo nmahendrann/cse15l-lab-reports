@@ -2,7 +2,6 @@
 
 * This was my favorite lab as it was fun to see everyone come up with new techniques to do a set of tasks
 * I used some shortcuts like the SSH keys and ctrl r to avoid copy pasting and save some time, bringing my pr to 1 minute 30.
-* 
 * The most time consuming activity was editing the file in nano, which another group was able to cut down through some command
 ![Image](unnamed15.png)
 * However faster than all these methods would be creating a bashscript to instantly do all these tasks.
@@ -22,3 +21,8 @@
 * ```git add ListExamples.java```
 * ```git commit -m “fixed”```
 * ```git push```
+
+* These commands can be inputted into a bashscript which can be saved as anything, lab7_speedrun.sh for example
+* The SSH keys made for the lab will be reused in this version of the speedrun.
+* The script is made runnable by running ```chmod +x lab7_speedrun.sh```
+* Finally this script can be ran with the terminal input ```./lab7_speedrun.sh```
