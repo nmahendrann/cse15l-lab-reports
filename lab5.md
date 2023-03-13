@@ -25,7 +25,7 @@
 * A change a made to this code before placing it in the bashscript is using the ```sed -i``` to replace index1 without entering nano
 
 * These commands can be inputted into a bashscript which can be saved as anything, speedrun_script.sh for example
-* ![Image](unnamed19.png)
+* ![Image](unnamed24.png)
 * The SSH keys made for the lab will be reused in this version of the speedrun.
 * The script is made runnable by running ```chmod +x Speedrun_script.sh```
 * ![Image](unnamed20.png)
