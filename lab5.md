@@ -29,6 +29,9 @@
 * The SSH keys made for the lab will be reused in this version of the speedrun.
 * The script is made runnable by running ```chmod +x Speedrun_script.sh```
 * ![Image](unnamed20.png)
+* The script was in downloads so I used ```cd downloads``` in order to run it
 * Finally this script can be ran with the terminal input ```./Speedrun_script.sh```
 * ![Image](unnamed23.png)
+
+* This should produce the same output as the other lab, but with only one command.
 
