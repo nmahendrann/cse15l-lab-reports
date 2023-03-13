@@ -49,7 +49,6 @@
 * The command used here was ls - lat, which lists all the files in the directory, including any hidden files
 
 * All the commands outputted what was expected, and I didn't run into any errors on this step.
-* 
 
 ---
 
