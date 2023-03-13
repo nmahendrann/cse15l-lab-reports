@@ -46,6 +46,11 @@
 
 ![Image](unnamed2.png)
 
+* The command used here was ls - lat, which lists all the files in the directory, including any hidden files
+
+* All the commands outputted what was expected, and I didn't run into any errors on this step.
+* 
+
 ---
 
 * Once this was completed, this program was exited, either through ctrl D or command `exit`
