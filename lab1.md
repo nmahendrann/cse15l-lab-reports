@@ -23,7 +23,7 @@
 
 ---
 
-* In order to connect properly, the zz in the code has to be replaced by the class spcecific code given during the password reset
+* In order to connect properly, the zz in the code has to be replaced by the class spcecific code given during the password reset from the first step
 * A message is displayed during the first time connecting to the server, and at this point we had to click yes in order to continue
 * After a successful connection, this is what the message displayed should look like
 
