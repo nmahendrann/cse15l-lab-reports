@@ -5,6 +5,7 @@
 * First, we had to reset our passwords into a more secure password
 * https://password.ucsd.edu/
 * The new password had to be more secure and not have out first or last name in it
+* The steps given by this link were followed, and a unique zzz replacement was given for our ieng6 login in a later step
 * We also had to install VS code if we did not already have it and did not want to use the school computers
 * https://code.visualstudio.com/download
 * This was a windows machine so the windows installer was used
